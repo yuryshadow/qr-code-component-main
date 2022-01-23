@@ -46,8 +46,8 @@ Em seguida, corte/otimize/edite sua imagem como quiser, adicione-a ao seu projet
 
 ### Links 
 
-- URL da solução: [Adicionar URL da solução aqui](https://your-solution-url.com) 
-- URL do site ativo : [Adicione o URL do site ao vivo aqui](https://your-live-site-url.com) 
+- URL da solução: [https://github.com/yuryshadow/qr-code-component-main.git]
+- URL do site ativo : [https://yuryshadow.github.io/qr-code-component-main/]
 
 ## Meu processo 
 
